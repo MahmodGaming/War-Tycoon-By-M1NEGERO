@@ -1,1 +1,269 @@
-local key=[[lua]];fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidHz="Encrypt By Yasu";RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe=fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH;jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ=RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe;jpvIdoTeJAhvCIYCPCTeuSpNtKaGvPqRdliKzHBYeCBrlCsZfKLoGfMEHOtqgbUJvIKtqyYZDQVbAXVQJDTTiczbVJKKlgmUFihKReiyIsfeIkQdyYfBcTULULcLBJTA=jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ;ikJfveqtbtZBJIvKHRDHYBkIaciMympBUGzEPYFcZYLqCojNdtOqEzFeeSbKlEbHMTplNlLwNNARZIfyrFwOArlAIbeeInbZNgkCrIXKTVoUQygwyFaBDsjQbyIBToUL=jpvIdoTeJAhvCIYCPCTeuSpNtKaGvPqRdliKzHBYeCBrlCsZfKLoGfMEHOtqgbUJvIKtqyYZDQVbAXVQJDTTiczbVJKKlgmUFihKReiyIsfeIkQdyYfBcTULULcLBJTA;TnZXyqocIRrcABIuUrIzxWMQquvkRAxrPhDhBZcPNOxhaEygsDcejltIDXTTQsXwomZeWlHIRfSsfhbGXbdnMKTzbfQXIbJKgPQYQzFDKbjbNbKhNDQPhvyGywfzJGPU=ikJfveqtbtZBJIvKHRDHYBkIaciMympBUGzEPYFcZYLqCojNdtOqEzFeeSbKlEbHMTplNlLwNNARZIfyrFwOArlAIbeeInbZNgkCrIXKTVoUQygwyFaBDsjQbyIBToUL;_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH="RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe";RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe="fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH";jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ={99,117,109,109,103,105,67,76,79,78,105,114,112,65,109,73,76,80,101,117,113,116,90,120,104,110,114,88,78,67,120,118,73,75,122,111,67,89,121,113,103,117,103,114,117,78,79,117,97,117,112,68,75,66,79,100,111,104,73,77,108,72,113,122,113,101,87,81,114,82,84,107,99,65,108,79,83,116,65,90,88,106,71,65,99,115,70,88,108,122,83,66,122,100,86,81,112,87,75,87,115,110,81,112,103,105,77,111,75,70,112,80,109,83,99,98,102,79,117,77,81,117,79,67,90,69,77,82};function xor(t)local ciphertext="";for i=1,#RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe do local byte=string.byte(RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe, i);local quibit=string.byte(fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH,(i-1)%#fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ)fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidHz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};jpvIdoTeJAhvCIYCPCTeuSpNtKaGvPqRdliKzHBYeCBrlCsZfKLoGfMEHOtqgbUJvIKtqyYZDQVbAXVQJDTTiczbVJKKlgmUFihKReiyIsfeIkQdyYfBcTULULcLBJTA="RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe";RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe="jpvIdoTeJAhvCIYCPCTeuSpNtKaGvPqRdliKzHBYeCBrlCsZfKLoGfMEHOtqgbUJvIKtqyYZDQVbAXVQJDTTiczbVJKKlgmUFihKReiyIsfeIkQdyYfBcTULULcLBJTA";ikJfveqtbtZBJIvKHRDHYBkIaciMympBUGzEPYFcZYLqCojNdtOqEzFeeSbKlEbHMTplNlLwNNARZIfyrFwOArlAIbeeInbZNgkCrIXKTVoUQygwyFaBDsjQbyIBToUL={107,113,103,116,70,105,101,107,68,87,82,105,112,74,118,106,105,88,79,88,78,84,114,98,86,98,82,118,111,68,73,87,108,89,109,98,114,98,86,90,86,111,78,105,75,121,102,121,120,65,67,71,114,67,115,110,88,112,82,103,87,79,112,69,86,76,119,107,73,114,97,108,81,89,107,106,80,110,88,68,109,69,102,121,111,121,86,70,118,114,108,97,109,65,103,78,82,110,116,104,111,68,65,88,66,82,101,87,82,69,85,77,84,108,110,102,89,85,110,86,111,99,81,78,81,103,120,85};function xor(t)local ciphertext="";for i=1,#RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe do local byte=string.byte(RDWwpHnqnjbNqlTfHpTmvXVLHgtKEuCuaTCuPcASzVtpMYDDkSYiVSMfoRLBtkIyOthprRLjvvPqKnkWvyEyAiXQGyviloYNRdewwiCoIXTSWNchBjyzKhNCgwJIjgKe, i);local quibit=string.byte(jpvIdoTeJAhvCIYCPCTeuSpNtKaGvPqRdliKzHBYeCBrlCsZfKLoGfMEHOtqgbUJvIKtqyYZDQVbAXVQJDTTiczbVJKKlgmUFihKReiyIsfeIkQdyYfBcTULULcLBJTA,(i-1)%#jpvIdoTeJAhvCIYCPCTeuSpNtKaGvPqRdliKzHBYeCBrlCsZfKLoGfMEHOtqgbUJvIKtqyYZDQVbAXVQJDTTiczbVJKKlgmUFihKReiyIsfeIkQdyYfBcTULULcLBJTA+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(ikJfveqtbtZBJIvKHRDHYBkIaciMympBUGzEPYFcZYLqCojNdtOqEzFeeSbKlEbHMTplNlLwNNARZIfyrFwOArlAIbeeInbZNgkCrIXKTVoUQygwyFaBDsjQbyIBToUL)fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidHz="Encrypt By Yasu";_ENV={string=string,table=table,math=math,pairs=pairs,load=load,print=print};TnZXyqocIRrcABIuUrIzxWMQquvkRAxrPhDhBZcPNOxhaEygsDcejltIDXTTQsXwomZeWlHIRfSsfhbGXbdnMKTzbfQXIbJKgPQYQzFDKbjbNbKhNDQPhvyGywfzJGPU="jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ";jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ="TnZXyqocIRrcABIuUrIzxWMQquvkRAxrPhDhBZcPNOxhaEygsDcejltIDXTTQsXwomZeWlHIRfSsfhbGXbdnMKTzbfQXIbJKgPQYQzFDKbjbNbKhNDQPhvyGywfzJGPU";fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH={102,83,120,97,70,122,107,81,99,77,118,104,72,67,104,102,73,102,98,118,67,78,114,106,100,76,103,109,121,77,118,108,116,88,111,86,114,70,110,84,97,82,121,88,77,72,79,111,87,79,121,73,75,70,68,97,68,99,100,70,83,103,72,104,115,71,118,106,97,66,81,86,118,105,109,73,114,71,112,106,90,79,116,102,117,106,80,121,72,109,116,116,118,113,82,110,88,86,121,78,77,80,120,112,114,103,68,83,89,88,74,84,119,98,74,113,74,116,118,81,83,102,113,67,67,107,99,121};function xor(t)local ciphertext="";for i=1,#jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ do local byte=string.byte(jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ, i);local quibit=string.byte(TnZXyqocIRrcABIuUrIzxWMQquvkRAxrPhDhBZcPNOxhaEygsDcejltIDXTTQsXwomZeWlHIRfSsfhbGXbdnMKTzbfQXIbJKgPQYQzFDKbjbNbKhNDQPhvyGywfzJGPU,(i-1)%#TnZXyqocIRrcABIuUrIzxWMQquvkRAxrPhDhBZcPNOxhaEygsDcejltIDXTTQsXwomZeWlHIRfSsfhbGXbdnMKTzbfQXIbJKgPQYQzFDKbjbNbKhNDQPhvyGywfzJGPU+1);ciphertext=ciphertext..string.char(bit.bxor(byte,quibit));end;return ciphertext;end;bit={bxor=function(a,b)local r,m=0,1;while a>0 and b>0 do local aa,bb=a%2,b%2;r=r+m*((aa+bb)%2);m=m*2;a=math.floor(a/2);b=math.floor(b/2) end;if a>0 then r=r+m*a end;if b>0 then r=r+m*b end;return r;end};xor(fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidH)fhZZGCRgZwmrpwcOfkqPGEKYMaHcxJhAGGOPuxxqAwuSQLToBbDaIhOQtlclmHJKdLOIpJYQiMrOJsbHSvoletTzVtjiPqRXarundQugIsTnDHSLwXkimXyJdynTBidHz="Encrypt By Yasu";jLOIMbwvKJnbvlfvfjOkqEtMihFUKHkJuXGqrZdOvZUIMBYkuuMdlZeXUogDRecaTmgovVKZoCVWXWTJnGCAQmVWEwOCvhuURswQDZMRIkISanEwVESOvJKhQQCSkAxJ={216,228,196,205,225,129,178,225,214,209,227,213,140,178,129,216,228,194,208,232,213,222,222,207,211,157,200,205,226,198,166,189,213,224,229,168,209,233,137,142,221,213,224,229,212,166,164,144,211,222,213,212,234,195,154,216,208,217,164,197,205,236,202,208,162,212,207,231,202,220,233,212,155,187,205,225,218,207,224,164,211,209,225,198,205,232,198,223,164,205,205,233,198,223,233,144,208,228,216,218,225,208,205,217,144,217,214,202,218,163,205,225,214,131,149,158,137,149,127,205,219,216,194,216,149,180,205,235,198,185,214,207,205,220,198,222,149,158,140,225,208,205,217,212,224,231,202,218,220,137,211,214,206,209,175,169,224,233,209,179,218,213,148,151,201,224,233,209,223,175,144,155,231,194,227,163,200,213,233,201,225,215,214,223,218,211,207,228,207,224,218,207,224,163,196,219,226,144,208,214,216,213,217,142,223,216,211,213,229,213,223,164,167,216,234,198,218,233,144,217,214,212,224,218,211,155,182,197,208,228,207,223,164,180,205,235,198,185,214,207,205,220,198,222,163,205,225,214,131,149,158,137,149,127,205,219,216,194,216,149,170,218,233,198,222,219,194,207,218,174,205,227,194,211,218,211,140,178,129,216,228,194,208,232,213,222,222,207,211,157,200,205,226,198,166,189,213,224,229,168,209,233,137,142,221,213,224,229,212,166,164,144,222,214,216,154,220,202,224,221,214,206,234,212,209,231,196,219,227,213,209,227,213,154,216,208,217,164,197,205,236,202,208,162,212,207,231,202,220,233,212,155,187,205,225,218,207,224,164,206,205,232,213,209,231,144,173,217,197,219,227,212,155,190,207,224,218,211,210,214,196,209,194,194,218,214,200,209,231,143,216,234,194,142,158,138,148,158,107,118,225,208,207,214,205,140,204,202,218,217,208,227,149,158,140,187,205,225,218,207,224,175,164,222,218,194,224,218,184,213,227,197,219,236,137,231,127,129,140,149,129,192,222,213,216,218,129,169,149,131,195,214,211,140,201,218,207,228,208,218,149,131,140,163,143,140,204,194,222,149,181,229,216,208,219,227,143,194,218,211,223,222,208,218,161,107,140,149,129,140,200,214,206,201,202,224,225,198,140,178,129,142,215,218,140,194,146,186,186,168,177,199,176,142,161,107,140,149,129,140,201,194,206,204,202,208,233,201,140,178,129,157,171,145,152,127,129,140,149,129,191,222,219,209,149,158,140,202,165,213,226,147,154,219,211,219,226,176,210,219,212,209,233,137,161,173,145,152,149,149,162,165,138,152,127,129,140,149,129,173,216,211,229,225,202,207,149,158,140,233,211,225,218,141,118,149,129,140,149,181,212,218,206,209,149,158,140,151,165,205,231,204,142,161,107,140,149,129,140,194,202,218,222,206,213,239,198,183,218,218,140,178,129,177,227,214,217,163,172,209,238,164,219,217,198,154,193,198,210,233,164,219,227,213,222,228,205,118,242,138,118,127,205,219,216,194,216,149,181,205,215,212,140,178,129,231,127,129,140,149,129,188,225,194,229,218,211,140,178,129,195,222,207,208,228,216,166,182,197,208,201,194,206,157,220,140,201,202,224,225,198,140,178,129,142,197,205,205,238,198,222,151,141,140,190,196,219,227,129,169,149,131,225,232,198,222,151,129,233,158,141,118,149,129,140,149,166,191,197,129,169,149,184,213,227,197,219,236,155,173,217,197,192,214,195,148,240,129,192,222,213,216,218,129,169,149,131,177,200,177,142,161,129,181,216,208,218,149,158,140,151,198,229,218,131,140,242,138,152,127,129,140,149,129,173,222,206,206,228,213,140,178,129,195,222,207,208,228,216,166,182,197,208,201,194,206,157,220,140,201,202,224,225,198,140,178,129,142,182,202,217,215,208,224,151,141,140,190,196,219,227,129,169,149,131,207,231,208,223,232,201,205,222,211,142,149,222,149,161,107,140,149,129,140,201,198,216,218,209,219,231,213,140,178,129,195,222,207,208,228,216,166,182,197,208,201,194,206,157,220,140,201,202,224,225,198,140,178,129,142,201,198,216,218,209,219,231,213,142,161,129,181,216,208,218,149,158,140,151,199,216,214,200,142,149,222,149,161,107,140,149,129,140,200,198,224,233,202,218,220,212,140,178,129,195,222,207,208,228,216,166,182,197,208,201,194,206,157,220,140,201,202,224,225,198,140,178,129,142,200,198,224,233,202,218,220,212,142,161,129,181,216,208,218,149,158,140,151,212,209,233,213,213,227,200,223,151,129,233,158,107,233,127,107,216,228,196,205,225,129,224,218,205,209,229,208,222,233,173,219,216,194,224,222,208,218,232,129,169,149,220,118,149,129,140,149,220,192,222,213,216,218,129,169,149,131,188,228,202,218,233,131,152,149,173,219,216,194,224,222,208,218,149,158,140,184,167,222,214,206,209,163,207,209,236,137,157,165,145,152,149,146,156,161,129,157,165,145,149,242,141,118,149,129,140,149,220,192,222,213,216,218,129,169,149,131,187,222,205,140,183,194,222,231,198,216,149,146,142,161,129,184,228,196,205,233,202,219,227,129,169,149,164,178,231,194,217,218,143,218,218,216,148,167,145,156,161,129,157,165,141,140,167,145,156,158,222,152,127,129,140,149,129,231,201,202,224,225,198,140,178,129,142,196,202,216,149,163,205,231,211,209,225,129,158,151,141,140,193,208,207,214,213,213,228,207,140,178,129,175,187,211,205,226,198,154,227,198,227,157,148,156,165,141,140,166,145,152,149,148,156,165,138,233,161,107,140,149,129,140,240,181,213,233,205,209,149,158,140,151,176,213,225,129,174,214,211,222,218,205,140,168,131,152,149,173,219,216,194,224,222,208,218,149,158,140,184,167,222,214,206,209,163,207,209,236,137,160,165,145,152,149,146,156,161,129,160,165,145,149,242,141,118,149,129,140,149,220,192,222,213,216,218,129,169,149,131,187,222,205,140,183,194,222,231,198,216,149,149,142,161,129,184,228,196,205,233,202,219,227,129,169,149,164,178,231,194,217,218,143,218,218,216,148,170,145,156,161,129,157,165,141,140,170,145,156,158,222,118,242,107,118,219,208,222,149,192,152,149,205,219,216,194,224,222,208,218,149,202,218,149,209,205,222,211,223,157,213,209,225,198,220,228,211,224,193,208,207,214,213,213,228,207,223,158,129,208,228,107,140,149,129,140,201,194,206,232,143,192,218,205,209,229,208,222,233,155,173,217,197,174,234,213,224,228,207,148,240,107,140,149,129,140,149,129,140,149,181,213,233,205,209,149,158,140,225,208,207,214,213,213,228,207,154,201,202,224,225,198,152,127,129,140,149,129,140,149,129,140,185,198,223,216,211,213,229,213,213,228,207,140,178,129,142,201,201,213,232,129,206,234,213,224,228,207,140,233,198,216,218,209,219,231,213,223,149,213,219,149,131,140,163,143,140,225,208,207,214,213,213,228,207,154,201,202,224,225,198,140,163,143,140,151,143,142,161,107,140,149,129,140,149,129,140,149,164,205,225,205,206,214,196,215,149,158,140,219,214,218,216,213,213,228,207,148,158,107,140,149,129,140,149,129,140,149,129,140,149,129,216,228,196,205,225,129,220,225,194,229,218,211,140,178,129,211,214,206,209,163,177,216,214,218,209,231,212,154,193,208,207,214,205,188,225,194,229,218,211,118,149,129,140,149,129,140,149,129,140,149,129,140,222,199,140,229,205,205,238,198,222,149,194,218,217,129,220,225,194,229,218,211,154,184,201,205,231,194,207,233,198,222,149,194,218,217,129,220,225,194,229,218,211,154,184,201,205,231,194,207,233,198,222,175,167,213,227,197,178,222,211,223,233,164,212,222,205,208,157,131,180,234,206,205,227,208,213,217,179,219,228,213,188,214,211,224,151,138,140,233,201,209,227,107,140,149,129,140,149,129,140,149,129,140,149,129,140,149,129,140,229,205,205,238,198,222,163,164,212,214,211,205,216,213,209,231,143,180,234,206,205,227,208,213,217,179,219,228,213,188,214,211,224,163,164,178,231,194,217,218,129,169,149,205,219,216,194,224,222,208,218,163,173,219,216,194,224,222,208,218,127,129,140,149,129,140,149,129,140,149,129,140,149,198,218,217,107,140,149,129,140,149,129,140,149,198,218,217,107,140,149,129,140,242,138,118,218,207,208,127,107,216,228,196,205,225,129,210,234,207,207,233,202,219,227,129,207,231,198,205,233,198,192,228,200,211,225,198,174,234,213,224,228,207,148,158,107,140,149,129,140,225,208,207,214,205,140,232,196,222,218,198,218,188,214,213,149,158,140,190,207,223,233,194,218,216,198,154,227,198,227,157,131,191,216,211,209,218,207,179,234,202,142,158,107,140,149,129,140,232,196,222,218,198,218,188,214,213,163,177,205,231,198,218,233,129,169,149,200,205,226,198,154,197,205,205,238,198,222,232,143,184,228,196,205,225,177,216,214,218,209,231,155,195,214,202,224,187,208,222,184,201,213,225,197,148,151,177,216,214,218,209,231,168,225,222,131,149,127,107,140,149,129,140,225,208,207,214,205,140,215,214,224,233,208,218,149,158,140,190,207,223,233,194,218,216,198,154,227,198,227,157,131,192,218,217,224,183,214,224,233,208,218,151,138,118,149,129,140,149,195,225,233,213,219,227,143,191,222,219,209,149,158,140,202,165,213,226,147,154,227,198,227,157,145,152,149,146,156,165,141,140,165,141,140,170,145,149,127,129,140,149,129,206,234,213,224,228,207,154,197,208,223,222,213,213,228,207,140,178,129,193,185,202,217,167,143,218,218,216,148,165,141,140,167,145,152,149,145,152,149,147,156,158,107,140,149,129,140,215,214,224,233,208,218,163,181,209,237,213,140,178,129,142,201,208,211,220,205,209,149,184,213,227,197,219,236,131,118,149,129,140,149,195,225,233,213,219,227,143,174,214,196,215,220,211,219,234,207,208,184,208,216,228,211,159,149,158,140,184,208,216,228,211,159,163,199,222,228,206,190,188,163,148,169,150,152,149,149,161,161,129,160,173,138,118,149,129,140,149,195,225,233,213,219,227,143,192,218,217,224,184,208,216,228,211,159,149,158,140,184,208,216,228,211,159,163,199,222,228,206,190,188,163,148,167,150,161,161,129,158,170,150,152,149,147,161,170,138,118,149,129,140,149,195,225,233,213,219,227,143,178,228,207,224,149,158,140,186,207,225,226,143,178,228,207,224,163,180,219,234,211,207,218,180,205,227,212,174,228,205,208,127,129,140,149,129,206,234,213,224,228,207,154,201,198,228,233,180,213,239,198,140,178,129,157,173,107,140,149,129,140,215,214,224,233,208,218,163,163,219,231,197,209,231,180,213,239,198,188,222,217,209,225,129,169,149,145,118,149,129,140,149,195,225,233,213,219,227,143,173,234,213,219,183,214,224,233,208,218,184,208,216,228,211,140,178,129,210,214,205,223,218,107,140,149,129,140,215,214,224,233,208,218,163,177,205,231,198,218,233,129,169,149,212,207,231,198,209,227,168,225,222,107,118,149,129,140,149,205,219,216,194,216,149,182,181,184,208,222,227,198,222,149,158,140,190,207,223,233,194,218,216,198,154,227,198,227,157,131,193,190,164,219,231,207,209,231,131,149,127,129,140,149,129,193,190,164,219,231,207,209,231,143,175,228,211,218,218,211,190,214,197,213,234,212,140,178,129,193,185,202,217,163,207,209,236,137,156,161,129,157,167,138,118,149,129,140,149,182,181,184,208,222,227,198,222,163,177,205,231,198,218,233,129,169,149,195,225,233,213,219,227,107,118,149,129,140,149,195,225,233,213,219,227,143,185,228,214,223,218,163,225,233,213,219,227,146,175,225,202,207,224,155,175,228,207,218,218,196,224,157,199,225,227,196,224,222,208,218,157,138,118,149,129,140,149,129,140,149,129,195,222,207,208,228,216,166,194,202,218,222,206,213,239,198,148,158,107,140,149,129,140,218,207,208,158,107,209,227,197,118,127,196,222,218,194,224,218,181,219,220,200,216,218,163,225,233,213,219,227,137,149,127,107,216,228,196,205,225,129,205,222,206,206,228,213,184,228,194,208,218,197,140,178,129,210,214,205,223,218,107,216,228,196,205,225,129,205,222,206,206,228,213,191,216,211,213,229,213,118,225,208,207,214,205,140,214,202,217,215,208,224,201,208,211,220,205,209,149,158,140,201,194,206,232,143,173,222,206,206,228,213,166,182,197,208,201,208,211,220,205,209,157,131,173,222,206,174,228,213,192,228,200,211,225,198,142,161,129,231,127,129,140,149,129,192,222,213,216,218,129,169,149,131,173,222,206,174,228,213,142,161,107,140,149,129,140,185,198
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/SaveManager.lua"))()
+local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
+
+local Window = Fluent:CreateWindow({
+    Title = "Fluent " .. Fluent.Version,
+    SubTitle = "by M1NEGERO",
+    TabWidth = 160,
+    Size = UDim2.fromOffset(580, 460),
+    Acrylic = true,
+    Theme = "Dark",
+    MinimizeKey = Enum.KeyCode.LeftControl
+})
+
+local Tabs = {
+    Player = Window:AddTab({ Title = "Player", Icon = "user" }),
+    ESP = Window:AddTab({ Title = "ESP", Icon = "eye" }),
+    Aimbot = Window:AddTab({ Title = "Aimbot", Icon = "crosshair" }),
+    Teleport = Window:AddTab({ Title = "Teleport", Icon = "flag" }),
+    Settings = Window:AddTab({ Title = "Settings", Icon = "settings" })
+}
+
+local teleportLocations = {
+    {Title = "Point", Location = CFrame.new(100, 10, 100)},
+    {Title = "Oil Barrel 1", Location = CFrame.new(200, 10, 200)},
+    {Title = "Oil Barrel 2", Location = CFrame.new(300, 10, 300)},
+    {Title = "Oil Barrel 3", Location = CFrame.new(400, 10, 400)},
+    {Title = "Oil Barrel 4", Location = CFrame.new(500, 10, 500)}
+}
+
+for _, location in pairs(teleportLocations) do
+    Tabs.Teleport:AddButton({
+        Title = location.Title,
+        Description = "This button teleports to " .. location.Title .. ".",
+        Callback = function()
+            local player = game.Players.LocalPlayer
+            if player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+                player.Character.HumanoidRootPart.CFrame = location.Location
+            end
+        end
+    })
+end
+
+local function createToggleButton()
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 100, 0, 50)
+    button.Position = UDim2.new(0, 20, 0, 20)
+    button.Text = "Toggle Window"
+    button.BackgroundColor3 = Color3.fromRGB(45, 45, 48)
+    button.TextColor3 = Color3.fromRGB(255, 255, 255)
+    button.Font = Enum.Font.SourceSansBold
+    button.TextSize = 18
+    button.BorderSizePixel = 0
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+
+    local UICorner = Instance.new("UICorner")
+    UICorner.CornerRadius = UDim.new(0, 12)
+    UICorner.Parent = button
+
+    button.MouseButton1Click:Connect(function()
+        Window:Minimize()
+    end)
+end
+
+createToggleButton()
+
+local aimbotLoaded = false
+local aimbotScript
+local aimbotToggle = Tabs.Aimbot:AddToggle("AimBotToggle", {
+    Title = "AimBot",
+    Description = "Toggle AimBot functionality.",
+    Default = false,
+    Callback = function(value)
+        if value and not aimbotLoaded then
+            local success, result = pcall(loadstring, game:HttpGet("https://pastebin.com/raw/xSykX9BU"))
+            if success then
+                aimbotScript = result()
+                aimbotLoaded = true
+            else
+                Fluent:Notify({Title = "Error", Content = "Failed to load Aimbot: " .. result, Duration = 10})
+            end
+        elseif not value and aimbotLoaded then
+            if aimbotScript then
+                aimbotScript:Disconnect()
+                aimbotScript = nil
+            end
+            aimbotLoaded = false
+        end
+    end
+})
+
+local espObjects = {}
+local espTracers = {}
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local Camera = workspace.CurrentCamera
+
+local function createESPBox(player)
+    local box = Drawing.new("Square")
+    box.Thickness = 2
+    box.Transparency = 0.5
+    box.Color = Color3.new(1, 1, 1) -- White
+    box.Filled = false
+    box.Visible = false
+    espObjects[player] = box
+    return box
+end
+
+local function removeESPBox(player)
+    if espObjects[player] then
+        espObjects[player]:Remove()
+        espObjects[player] = nil
+    end
+end
+
+local function updateESPBox(player)
+    if espObjects[player] and player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        local humanoidRootPart = player.Character.HumanoidRootPart
+        local headPosition, onScreen = Camera:WorldToViewportPoint(humanoidRootPart.Position)
+        if onScreen then
+            local boxHeight = 50
+            local boxWidth = 30
+            espObjects[player].Size = Vector2.new(boxWidth, boxHeight)
+            espObjects[player].Position = Vector2.new(headPosition.X - boxWidth / 2, headPosition.Y - boxHeight / 2)
+            espObjects[player].Visible = true
+        else
+            espObjects[player].Visible = false
+        end
+    end
+end
+
+
+local function createESPTracer(player)
+    local tracer = Drawing.new("Line")
+    tracer.Visible = false
+    tracer.Color = Color3.new(1, 1, 1) -- White
+    tracer.Thickness = 1
+    tracer.Transparency = 0.5
+    espTracers[player] = tracer
+    return tracer
+end
+
+local function removeESPTracer(player)
+    if espTracers[player] then
+        espTracers[player]:Remove()
+        espTracers[player] = nil
+    end
+end
+
+local function updateESPTracer(player)
+    if espTracers[player] and player and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+        local humanoidRootPart = player.Character.HumanoidRootPart
+        local screenPosition, onScreen = Camera:WorldToViewportPoint(humanoidRootPart.Position)
+
+        if onScreen then
+            espTracers[player].From = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y / 2)
+            espTracers[player].To = Vector2.new(screenPosition.X, screenPosition.Y)
+            espTracers[player].Visible = true
+        else
+            espTracers[player].Visible = false
+        end
+    end
+end
+
+
+local function enableESPBoxes(value)
+    if value then
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= Players.LocalPlayer then
+                createESPBox(player)
+            end
+        end
+        Players.PlayerAdded:Connect(function(player)
+            if player ~= Players.LocalPlayer then
+                createESPBox(player)
+            end
+        end)
+        Players.PlayerRemoving:Connect(removeESPBox)
+        RunService.RenderStepped:Connect(function()
+            for _, player in pairs(Players:GetPlayers()) do
+                if player ~= Players.LocalPlayer then
+                    updateESPBox(player)
+                end
+            end
+        end)
+    else
+        for player, _ in pairs(espObjects) do
+            removeESPBox(player)
+        end
+    end
+end
+
+local function enableESPTracers(value)
+    if value then
+        for _, player in pairs(Players:GetPlayers()) do
+            if player ~= Players.LocalPlayer then
+                createESPTracer(player)
+            end
+        end
+        Players.PlayerAdded:Connect(function(player)
+            if player ~= Players.LocalPlayer then
+                createESPTracer(player)
+            end
+        end)
+        Players.PlayerRemoving:Connect(removeESPTracer)
+        RunService.RenderStepped:Connect(function()
+            for _, player in pairs(Players:GetPlayers()) do
+                if player ~= Players.LocalPlayer then
+                    updateESPTracer(player)
+                end
+            end
+        end)
+    else
+        for player, _ in pairs(espTracers) do
+            removeESPTracer(player)
+        end
+    end
+end
+
+Tabs.ESP:AddToggle("ESPBoxToggle", {
+    Title = "ESP Box",
+    Description = "Toggle ESP boxes for players.",
+    Default = false,
+    Callback = enableESPBoxes
+})
+
+Tabs.ESP:AddToggle("ESPTracerToggle", {
+    Title = "ESP Tracer",
+    Description = "Toggle ESP tracers for players.",
+    Default = false,
+    Callback = enableESPTracers
+})
+
+local speedSlider = Tabs.Player:AddSlider("SpeedSlider", {
+    Title = "Speed Multiplier (Visual Only)",
+    Description = "This slider only changes a visual value; it does not affect actual player speed.",
+    Min = 0.1,
+    Max = 2,
+    Default = 1,
+    Step = 0.1,
+    Callback = function(value)
+        print("Speed Multiplier set to: " .. value)
+    end
+})
+
+SaveManager:SetLibrary(Fluent)
+InterfaceManager:SetLibrary(Fluent)
+
+SaveManager:IgnoreThemeSettings()
+SaveManager:SetIgnoreIndexes({})
+InterfaceManager:SetFolder("FluentScriptHub")
+SaveManager:SetFolder("FluentScriptHub/specific-game")
+
+InterfaceManager:BuildInterfaceSection(Tabs.Settings)
+SaveManager:BuildConfigSection(Tabs.Settings)
+
+Window:SelectTab(1)
+
+Fluent:Notify({
+    Title = "War Tycoon",
+    Content = "The script has been loaded.",
+    Duration = 8
+})
+
+SaveManager:LoadAutoloadConfig()
